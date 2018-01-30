@@ -1,0 +1,9 @@
+CUST_ ID         LAST_NAME       FIRST_NAME      PHONE
+ 2               CINDY            WALLE          864109
+ 3               SPÖTTER           BEN           547197
+ 4                NELI             DICKSON       201568
+ 5                ANTHONY           ADAM         367910
+ 6                YAMINE            PETER        198651
+ 7                 HELEN            JAMES        945718
+ 8                 CALER             MARY        561803
+  
